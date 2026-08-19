@@ -12,15 +12,13 @@
 <h2 align="center">What I Build</h2>
 
 🤖 **AI-native products**  
-Building AI directly into software products: on-device LLM inference,
-real-time computer vision, and agentic systems.
+Building AI into software: agentic systems, on-device LLMs, computer vision.
 
 🛠️ **Product-minded software**  
 Designing for real users and real problems. 
 
 📈 **Software built to scale**  
-Thinking beyond the prototype: designing systems for real users, low latency,
-high transaction volume, and growing workloads.
+Engineering beyond the prototype: reliable, low-latency, scalable systems.
 
 <h2 align="center">🚀 Selected Builds</h2>
 
