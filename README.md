@@ -37,6 +37,8 @@ high transaction volume, and growing workloads.
 
 **[Lost & Found Network Optimizer](https://github.com/vchlinh/lost-and-found) - Geospatial platform for intelligent lost-and-found matching**
 
+*Currently under maintenance - repository temporarily private.*
+
 - Built a geospatial lost-and-found platform using a **weighted bipartite graph matching algorithm (Hungarian)**
 - Integrated **Google Maps SDK** for location reporting and Firebase Cloud Messaging for real-time match notifications
 - Deployed a serverless backend on **GCP Cloud Run** with Cloud SQL and Cloud Storage for scalability and low latency
