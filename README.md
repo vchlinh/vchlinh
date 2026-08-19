@@ -15,9 +15,8 @@
 Building AI directly into software products: on-device LLM inference,
 real-time computer vision, and agentic systems.
 
-🛠️ **Production-minded software**  
-Designing full-stack systems with testing, observability, feature-flagged deployments,
-and reliable CI/CD workflows.
+🛠️ **Product-minded software**  
+Designing for real users and real problems. 
 
 📈 **Software built to scale**  
 Thinking beyond the prototype: designing systems for real users, low latency,
