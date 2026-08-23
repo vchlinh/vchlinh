@@ -37,10 +37,8 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 *Currently under maintenance - repository temporarily private.*
 
 - Built a geospatial lost-and-found platform using a **weighted bipartite graph matching algorithm (Hungarian)**
-- Integrated **Google Maps SDK** for location reporting and Firebase Cloud Messaging for real-time match notifications
-- Deployed a serverless backend on **GCP Cloud Run** with Cloud SQL and Cloud Storage for scalability and low latency
 
-**Tech:** React Native · Node.js · GCP · PostgreSQL · Firebase
+**Tech:** React Native · Node.js · PostgreSQL · Firebase
 
 ---
 
