@@ -32,16 +32,6 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 
 ---
 
-**[Lost & Found Network Optimizer](https://github.com/vchlinh/lost-and-found) - Geospatial platform for intelligent lost-and-found matching**
-
-*Currently under maintenance - repository temporarily private.*
-
-- Built a geospatial lost-and-found platform using a **weighted bipartite graph matching algorithm (Hungarian)**
-
-**Tech:** React Native · Node.js · PostgreSQL · Firebase
-
----
-
 **[Students Dropout Classifier](https://github.com/vchlinh/Students-Dropout-Classifier) - Machine learning system for analyzing undergraduate dropout risk**
 
 - Built **random forest and gradient boosted tree models** to analyze undergraduate dropout catalysts using XGBoost
@@ -60,6 +50,16 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 - Designed the game around multiple interactive phases and concurrent player interactions
 
 **Tech:** C · TCP/IP · Socket Programming · Client-Server Architecture · Concurrency
+
+---
+
+**[Lost & Found Network Optimizer](https://github.com/vchlinh/lost-and-found) - Geospatial platform for intelligent lost-and-found matching**
+
+*Currently under maintenance - repository temporarily private.*
+
+- Built a geospatial lost-and-found platform using a **weighted bipartite graph matching algorithm (Hungarian)**
+
+**Tech:** React Native · Node.js · PostgreSQL · Firebase
 
 <h2 align="center">🧰 Technical Toolkit</h2>
 
