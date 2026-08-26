@@ -9,6 +9,10 @@
   💻 2× Software Engineer Intern @ PayPal
 </p>
 
+<p align="center">
+  <b>Currently exploring:</b> AI agent evaluation systems to measure reliability, performance, and failure modes in real-world engineering tasks.
+</p>
+
 <h2 align="center">What I Build</h2>
 
 🤖 **AI-native products**  
