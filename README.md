@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Currently exploring:</b> AI agent evaluation systems to measure reliability, performance, and failure modes in real-world engineering
+  <b>Currently exploring: </b><a href="https://github.com/vchlinh/agent-eval-lab">AI agent evaluation systems</a> to measure reliability, performance, and failure modes in real-world engineering
 </p>
 
 <h2 align="center">What I Build</h2>
@@ -31,6 +31,15 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 - Architected a full-stack AI web app for real-time ASL conversation with **LLM-powered grammar correction**
 - Deployed LLMs on-device with **Transformers.js and WebGPU** for low-latency, offline-first browser inference
 - Built a real-time sign recognition pipeline using **MediaPipe landmarks**, translating ASL into text
+
+**Tech:** React · MediaPipe · Transformers.js · WebGPU
+
+---
+
+**[Agent Evaluation Lab](https://github.com/vchlinh/agent-eval-lab) - Evaluation framework for measuring the reliability, correctness, and quality of AI coding agents**
+
+- Built a **Docker-sandboxed evaluation harness** benchmarking a ReAct coding agent on **20 self-authored software tasks**
+- Designed **paired statistical evaluations** with bootstrap and McNemar’s test to quantify reliability and efficiency
 
 **Tech:** React · MediaPipe · Transformers.js · WebGPU
 
