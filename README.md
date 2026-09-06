@@ -41,7 +41,7 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 - Built a **Docker-sandboxed evaluation harness** benchmarking a ReAct coding agent on **20 self-authored software tasks**
 - Designed **paired statistical evaluations** with bootstrap and McNemar’s test to quantify reliability and efficiency
 
-**Tech:** React · MediaPipe · Transformers.js · WebGPU
+**Tech:** Python · Docker · LLM Agents 
 
 ---
 
