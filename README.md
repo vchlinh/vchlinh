@@ -5,12 +5,8 @@
 <h3 align="center">🌸 AI-Native Software Engineer · Product Mindset · Systems Thinking 🌸</h3>
 
 <p align="center">
-  🎓 Computer Science + Statistics @ Grinnell College | May 2027<br>
+  🎓 Computer Science + Statistics @ Grinnell College <br>
   💻 2× Software Engineer Intern @ PayPal
-</p>
-
-<p align="center">
-  <b>Currently exploring: </b><a href="https://github.com/vchlinh/agent-eval-lab">AI agent evaluation systems</a> to measure reliability, performance, and failure modes in real-world engineering
 </p>
 
 <h2 align="center">What I Build</h2>
@@ -80,13 +76,13 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 JavaScript · TypeScript · Java · Python · C · C# · PHP · HTML/CSS · SQL · R
 
 **AI / ML**  
-MediaPipe · Transformers.js · WebGPU · XGBoost · Statistical Learning
+PyTorch · MediaPipe · Transformers.js · WebGPU · XGBoost · Statistical Learning
 
 **Frameworks & Backend**  
 React · Next.js · Node.js · Django · PostgreSQL · MySQL · SQLite · Firebase
 
 **Cloud & Tools**  
-Google Cloud Platform · Git · Jest · Unity · Jupyter Notebook · Figma
+Git · GCP · AWS · Docker · Jest · Unity · Jupyter Notebook · Figma
 
 <h2 align="center">📫 Connect</h2>
 
