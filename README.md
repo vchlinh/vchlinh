@@ -88,5 +88,6 @@ Git · GCP · AWS · Docker · Jest · Unity · Jupyter Notebook · Figma
 
 <p align="center">
   <a href="https://www.linkedin.com/in/linh-c-vu/">LinkedIn</a> ·
+  <a href="https://www.linhcvu.com">Portfolio</a> ·
   <a href="mailto:linhcvu.work@gmail.com">Email</a>
 </p>
