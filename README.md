@@ -20,6 +20,12 @@ Designing for real users and real problems.
 📈 **Software built to scale**  
 Engineering beyond the prototype: reliable, low-latency, scalable systems.
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vchlinh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e8a4b8&fire=f08fb0&currStreakLabel=e8a4b8&currStreakNum=f5b6c9&sideLabels=c49aaa&sideNums=f5b6c9&dates=a98a9b)](https://git.io/streak-stats)
+
+</div>
+
 <h2 align="center">🚀 Selected Builds</h2>
 
 **[AI-Powered ASL Learning Website](https://github.com/AcornSL/AcornSL) - Real-time ASL conversation platform with on-device AI**
