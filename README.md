@@ -68,6 +68,17 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 
 ---
 
+**[OtherWise](https://github.com/kkuulkan/wise-hackathon) - Geo-Aware Price Arbitrage App**
+
+- Architected a **full-stack travel savings platform** using Next.js and PostgreSQL to analyze spending patterns and identify potential savings abroad
+- Engineered a data validation pipeline with automated integrity checks to filter unreliable pricing data and ensure accurate savings estimates
+- Developed a weighted ranking algorithm incorporating spending volume and purchase frequency to prioritize actionable savings opportunities
+- Won Fourth Place in Wise-sponsored hackathon
+
+**Tech:** Next.js · PostgreSQL · TypeScript · REST APIs · Data Pipelines
+
+---
+
 **[Lost & Found Network Optimizer](https://github.com/vchlinh/lost-and-found) - Geospatial platform for intelligent lost-and-found matching**
 
 *Currently under maintenance - repository temporarily private.*
