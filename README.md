@@ -68,7 +68,7 @@ Engineering beyond the prototype: reliable, low-latency, scalable systems.
 
 ---
 
-**[OtherWise](https://github.com/kkuulkan/wise-hackathon) - Geo-Aware Price Arbitrage App**
+**[OtherWise](https://github.com/kkuulkan/wise-hackathon) - Geo-Aware Geo-Aware Spending Optimizer**
 
 - Architected a **full-stack travel savings platform** using Next.js and PostgreSQL to analyze spending patterns and identify potential savings abroad
 - Engineered a data validation pipeline with automated integrity checks to filter unreliable pricing data and ensure accurate savings estimates
